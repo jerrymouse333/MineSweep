@@ -1,5 +1,5 @@
 # MineSweep
-# The code implements an machine learning method to automatically play mine-sweep games.
+# The code implements a machine learning method to automatically play mine-sweep games.
 # This method is designed by Hao Zhang.
 
 # Usage: python pysweeper.py -r 10 -c 20 -m 15 
